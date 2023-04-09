@@ -1,0 +1,10 @@
+NeutralGuyName
+CivilianN
+Dasmein
+5
+0
+Heavy Spear
+15
+4
+None
+1_

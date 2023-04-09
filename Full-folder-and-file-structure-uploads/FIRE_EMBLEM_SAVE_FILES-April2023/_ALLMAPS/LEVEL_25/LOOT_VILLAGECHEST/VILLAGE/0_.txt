@@ -1,7 +1,7 @@
 NOTVISITED
-19
-10
-Darik Reserve (S)
+20
+9
+Killer Lance
 Villager: NOT USING THIS LINE - BUT KEEP TO LOAD CORRECTLY.
 Villager: Sample conversation text.
 Villager: Here, take some money as a reward for xyz.
