@@ -1,4 +1,29 @@
-0
-Doesnt matter, loaded from NEWGAME folder
-Irrelevant line
+4
+Creative Name
+irrelevant now
 Water
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
