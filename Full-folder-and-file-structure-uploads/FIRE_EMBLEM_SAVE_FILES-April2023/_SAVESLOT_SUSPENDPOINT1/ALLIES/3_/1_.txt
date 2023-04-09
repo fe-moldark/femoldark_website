@@ -1,0 +1,23 @@
+wrys.png
+Orell
+Healer
+Human
+1
+0
+14
+14
+wrys_grey.png
+wrysx4.png
+False
+Orell: Couldn't even save myself...
+16
+16
+0
+1
+2
+2
+0
+0
+6
+5
+4

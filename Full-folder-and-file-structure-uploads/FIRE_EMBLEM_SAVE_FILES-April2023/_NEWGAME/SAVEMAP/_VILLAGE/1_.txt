@@ -1,0 +1,14 @@
+NOTVISITED
+2
+2
+5000
+Villager: Aah! They've breached the gates! Run for your lives!
+: Woah, calm down! We're not the enemy!
+Villager: Oh, thank the heavens I thought those creatures had finally gotten through. I was going to fight them off with, erm, this here pitchfork, um ...
+: ... really?
+Villager: No... Listen we aren't fighters here, we're all traders or farmers. If you can take care of these beasts we will gladly pay you for your time.
+: Well, I think killing these beasts is in all of our interests, but-
+Villager: Please, just take it.
+: I'm going now.
+Villager: Best of luck and uh, please make sure to close the gate behind you.
+:[sigh]

@@ -1,0 +1,23 @@
+MageMan.png
+Noril
+Mage
+Human
+1
+0
+0
+3
+MageManGrey.png
+MageManx4.png
+False
+Noril: Magic can't help me now...
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

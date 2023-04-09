@@ -1,0 +1,23 @@
+AxeMan.png
+Krarel
+Pirate
+Human
+1
+0
+18
+4
+AxeManGrey.png
+AxeManx4.png
+False
+Krarel: Must... get... up... Need... to fight...
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

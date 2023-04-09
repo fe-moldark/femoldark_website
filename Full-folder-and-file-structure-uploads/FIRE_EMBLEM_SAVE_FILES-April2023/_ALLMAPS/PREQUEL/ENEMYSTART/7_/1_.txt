@@ -1,0 +1,12 @@
+Brute
+BeineSword
+Infernal
+5
+0
+Silver Sword
+5
+9
+None
+1_
+2_
+7_

@@ -1,0 +1,11 @@
+Undead
+Bone Walker
+Bone Walker
+1
+0
+Iron Bow
+10
+5
+False
+1_
+2_

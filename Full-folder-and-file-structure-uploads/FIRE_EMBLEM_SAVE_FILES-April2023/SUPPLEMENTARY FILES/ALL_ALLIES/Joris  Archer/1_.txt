@@ -1,0 +1,23 @@
+ArcherMan.png
+Joris
+Archer
+Human
+1
+0
+3
+0
+ArcherManGrey.png
+ArcherManx4.png
+False
+Joris: Ugghh... Help...
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

@@ -1,0 +1,23 @@
+wrys.png
+Thadeus
+Monk
+Human
+10
+0
+5
+2
+wrys_grey.png
+wrysx4.png
+False
+Aruknur: Caedus...
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

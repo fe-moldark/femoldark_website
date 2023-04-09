@@ -1,0 +1,23 @@
+wrys.png
+Wrys
+Cleric
+Human
+1
+0
+5
+2
+wrys_grey.png
+wrysx4.png
+False
+Couldn't even save myself...
+16
+16
+0
+1
+2
+2
+0
+0
+6
+5
+4

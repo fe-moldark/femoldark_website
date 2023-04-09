@@ -1,0 +1,14 @@
+Undead
+Bone Walker
+Bone Walker
+2
+0
+Steel Sword
+5
+10
+True
+14_
+15_
+16_
+17_
+18_

@@ -1,0 +1,23 @@
+swordMan.png
+Caedus
+Lord
+Human
+1
+0
+1
+0
+swordManGrey.png
+swordmanx4.png
+False
+Cedrik: Great, well now you need to restart the chapter...
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

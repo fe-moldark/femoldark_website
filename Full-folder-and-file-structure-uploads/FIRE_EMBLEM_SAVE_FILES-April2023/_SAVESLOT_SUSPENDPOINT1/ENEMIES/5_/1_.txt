@@ -1,0 +1,11 @@
+Knight
+Knight2
+Bandit
+1
+0
+Iron Lance
+7
+5
+True
+4_
+5_

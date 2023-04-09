@@ -1,0 +1,23 @@
+wrys.png
+Girdoh
+Mage
+Human
+1
+0
+5
+2
+wrys_grey.png
+wrysx4.png
+False
+Girdoh: Good luck, sir...
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

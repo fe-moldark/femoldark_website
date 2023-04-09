@@ -1,0 +1,10 @@
+Fighter
+Fighter2
+Bandit
+1
+0
+Iron Axe
+18
+0
+None
+7_

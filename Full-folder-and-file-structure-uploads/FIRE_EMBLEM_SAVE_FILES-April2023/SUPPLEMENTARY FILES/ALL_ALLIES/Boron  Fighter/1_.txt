@@ -1,0 +1,23 @@
+AxeMan.png
+Boron
+Fighter
+Human
+1
+0
+18
+4
+AxeManGrey.png
+AxeManx4.png
+False
+Boron: Heh... I always did want to go down fighting...
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

@@ -1,0 +1,23 @@
+swordMan.png
+Marth
+Lord
+Human
+1
+0
+1
+0
+swordManGrey.png
+swordmanx4.png
+False
+Ah, and now my story comes to a close...
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

@@ -1,0 +1,23 @@
+MageMan.png
+Noril
+Mage
+Human
+1
+50
+12
+9
+MageManGrey.png
+MageManx4.png
+False
+Noril: Magic can't help me anymore... I must retreat.
+7
+16
+0
+1
+2
+3
+0
+3
+4
+5
+6

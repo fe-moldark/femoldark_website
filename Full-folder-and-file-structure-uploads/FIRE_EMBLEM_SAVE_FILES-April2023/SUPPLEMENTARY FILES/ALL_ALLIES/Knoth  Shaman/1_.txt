@@ -1,0 +1,23 @@
+MageMan.png
+Knoth
+Shaman
+Human
+1
+0
+0
+3
+MageManGrey.png
+MageManx4.png
+False
+Knoth: And the darkest of days is today...
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

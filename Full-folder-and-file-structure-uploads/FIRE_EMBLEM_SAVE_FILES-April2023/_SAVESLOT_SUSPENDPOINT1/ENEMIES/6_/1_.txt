@@ -1,0 +1,12 @@
+Fighter
+Fighter2
+Bandit
+1
+0
+Iron Axe
+10
+11
+False
+1_
+2_
+3_

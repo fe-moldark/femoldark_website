@@ -1,0 +1,23 @@
+LanceMan.png
+Galran
+Knight
+Human
+1
+60
+2
+2
+LanceManGrey.png
+LanceManx4.png
+False
+Galran: Huh, thought this armor was impenetrable...
+17
+17
+5
+0
+2
+1
+0
+9
+1
+4
+11

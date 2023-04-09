@@ -1,0 +1,23 @@
+swordMan.png
+Cedrik
+Lord
+Human
+1
+61
+2
+1
+swordManGrey.png
+swordmanx4.png
+False
+Cedrik: Ah, and now my story comes to a close...
+14
+18
+6
+0
+6
+7
+0
+6
+0
+5
+5

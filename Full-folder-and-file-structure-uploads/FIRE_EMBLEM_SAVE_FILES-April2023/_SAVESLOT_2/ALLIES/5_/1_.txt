@@ -1,0 +1,23 @@
+AxeMan.png
+Barst
+Fighter
+Human
+1
+0
+2
+0
+AxeManGrey.png
+AxeManx4.png
+False
+Heh... I always did want to go down fighting...
+20
+20
+5
+0
+2
+4
+0
+2
+0
+5
+11
