@@ -1,0 +1,22 @@
+title: FE Moldark
+description: Recreating the Fire Emblem game with Python and Pygame, and adding my own ideas along the way.
+theme: just-the-docs
+
+url: https://fe-moldark.dev
+
+aux_links:
+  FE Moldark: https://fe-moldark.dev
+  
+nav_external_links:
+  - title: wesleykent.com
+    url: https://wesleykent.com
+  
+color_scheme: dark
+
+favicon_ico: "/favicon.ico" #might move to /assets/
+
+search_enabled: true
+
+
+
+ 
