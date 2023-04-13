@@ -8,7 +8,7 @@ description: This is a tool I wrote to create the entirety of each chapter, from
 ---
 
 <head>
-  <link rel="stylesheet" type="text/css" href="/styles/ytvideo.css">
+  <link rel="stylesheet" type="text/css" href="/styles/embedded_videos_and_stls.css">
 </head>
 
 # The Create Chapter Program
