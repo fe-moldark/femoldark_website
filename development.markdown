@@ -39,7 +39,7 @@ Here are some screenshots of what the game looks like now:<br>
   <img src="/assets/development/relocate players.png" alt=""
   width=1050><br>
   <img src="/assets/development/xp bar.png" alt="" width=950><br>
-  <img src="/assets/development/attack screen.png" alt="" width=500><br>
+  <img src="/assets/development/attack screen.png" alt="" width=450><br>
   <img src="/assets/development/grid thickness.png" alt="" width=900><br>
 </center>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
