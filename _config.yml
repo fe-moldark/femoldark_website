@@ -20,7 +20,7 @@ nav_external_links:
   
 color_scheme: dark
 
-favicon_ico: "/favicon.ico" #might move to /assets/
+#favicon_ico: "/favicon.ico" #might move to /assets/
 
 search_enabled: true
 
