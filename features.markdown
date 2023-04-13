@@ -21,8 +21,8 @@ Despite modeling this game almost exclusively off the GBA style of Fire Emblem I
 # Other sources
 To highlight some of the classic FE features I've added to the game, I compiled some basic screen recordings and uploaded them to a playlist on youtube. Seemed the easiest way to embed them here as well as bring traffic to both sites.<br>
 <center>
-  <div class="adapt-youtube">
-    <iframe width="840" height="473" src="https://www.youtube.com/embed/watch?v=3bbl0KzZHx4&list=PLecUQNqdK8lTE4pW3j9KHZKFbjVlQEecY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <div id="content"> 
+    <iframe id="content"  src="https://www.youtube.com/embed/watch?v=3bbl0KzZHx4&list=PLecUQNqdK8lTE4pW3j9KHZKFbjVlQEecY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
   </div>
 </center>
