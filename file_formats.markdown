@@ -25,7 +25,7 @@ This page will cover different types of files and how they are formatted. Note t
 Let's start with the map itself, the file is named `MAP.txt` within each level's main directory. Here is how a single row of the map is saved in text format:<br>
 `[('chest1b.png', 0), ('grass_5.png', 0), ('roof_half2.png', 0),...]`
 <br><br>
-The three dots there indicate there is more to that row of course. How this ends up working is it will create an array based up the number of lines within the file (y) and the number of individual tiles within each row (x). From there, it loads the image according to the string part of the tile and the second part controls the rotation of that tile. Later on, two 0/1 grids are generated to control unit movement, one is for units on foot and the other for units that can fly. If I could go back in time and reformat how this was done, I would, but it works fine as is so you won't see me complaining.
+The three dots there indicate there is more to that row of course. How this ends up working is it will create an array based on the number of lines within the file (y) and the number of individual tiles within each row (x). From there, it loads the image according to the string part of the tile and the second part controls the rotation of that tile. Later on, two 0/1 grids are generated to control unit movement, one is for units on foot and the other for units that can fly. If I could go back in time and reformat how this was done, I would, but it works fine as is so you won't see me complaining.
 <br><br><br>
 
 ## The Extra file
@@ -45,7 +45,7 @@ The last file under the parent level directory is the `WINCONDITIONS.txt` file, 
 <br>
 ### 1. ROUT
 {: .no_toc}
-The simplest one is a rout mission, which means the player must kill all enemy forces on the map to move onto the next level. This is saved with only a single line to the file:<br>
+The simplest one is a rout mission, which means the player must eliminate all enemy forces on the map to move onto the next level. This is saved with only a single line to the file:<br>
 ```
 ROUT
 ```
