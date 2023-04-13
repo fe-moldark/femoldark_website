@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 <head>
-  <link rel="stylesheet" type="text/css" href="/styles/ytvideo.css">
+  <link rel="stylesheet" type="text/css" href="/styles/embedded_videos_and_stls.css">
 </head>
 
 # Features
