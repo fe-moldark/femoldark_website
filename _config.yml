@@ -1,6 +1,13 @@
 title: FE Moldark
 description: Recreating the Fire Emblem game with Python and Pygame, and adding my own ideas along the way.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - github-pages
+  - jekyll-feed
+  - remote_theme
+  - jekyll-redirect-from
+  - jekyll-sitemap
 
 url: https://fe-moldark.dev
 
