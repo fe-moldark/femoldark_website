@@ -21,9 +21,9 @@ This is a tool I wrote to create the entirety of each chapter; from the map itse
 # A video breakdown of what this does
 This is a ~15-min long video where I cover the various functions and capabilities of this program:<br>
 <center>
-<div class="adapt-youtube">
-<iframe width="840" height="445" src="https://www.youtube.com/embed/21ou-WHlves" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+  <div id="content"> 
+    <iframe id="content"  src="https://www.youtube.com/embed/21ou-WHlves" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </center>
 <br>
 
