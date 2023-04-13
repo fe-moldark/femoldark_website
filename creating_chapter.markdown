@@ -11,7 +11,7 @@ description: This is a tool I wrote to create the entirety of each chapter, from
   <link rel="stylesheet" type="text/css" href="/styles/ytvideo.css">
 </head>
 
-# The Creating Chapters Program
+# The Create Chapter Program
 This is a tool I wrote to create the entirety of each chapter; from the map itself, the friendly, enemy, and neutral units, chests and villages with loot and conversations, win conditions, and more. All of this can be accomplished directly within the GUI and whenever changes are made they are immediately saved and the chapter reloaded to reflect those changes. This happens quickly enough where there is no noticeable pause, despite loading nearly 450 files within 50+ directories. The main screen for this tool likes the following:<br>
 <center>
 <img width="1100" src="/assets/createchapter/mapmaker main.png">
