@@ -47,9 +47,9 @@ There are many different buttons that will prompt screens as seen below. These o
 <center>
   <img width="1200" src="/assets/createchapter/mapmaker8.png"><br>
   <img width="1200" src="/assets/createchapter/choose class.png"><br>
-  <img width="500" src="/assets/createchapter/add recruiters.png"><br>
   <img width="800" src="/assets/createchapter/kill winconditions.png"><br>
-  <img width="500" src="/assets/createchapter/enter text.png">
+  <img width="500" src="/assets/createchapter/add recruiters.png"><br>
+  <img width="375" src="/assets/createchapter/enter text.png">
 </center>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
