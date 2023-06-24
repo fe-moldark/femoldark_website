@@ -22,7 +22,7 @@ I thought it would be cool to design my own handheld console for this game, and 
 - You can swap out an analog joystick with a d-pad in under a minute if you want
 
 <br>
-I cover the game console's development more in depth on my personal website <a href="https://wesleykent.com/femoldark/gameconsole/" target="_blank" rel="noopener noreferrer">here</a>. That covers everything from assembling the hardware to configuring the software. If you want to see how the game console was developed I've recorded those on my <a href="https://www.youtube.com/playlist?list=PLecUQNqdK8lTFV4D1MFUgDr6TgxQrbloh" target="_blank" rel="noopener noreferrer">YouTube channel</a>. To give a brief overview, the game console can be divided into two main categories - the 3d-printed case and the electronic components inside:
+I cover the game console's development more in depth on my personal website <a href="https://wesleykent.com/femoldark/gameconsole/" target="_blank" rel="noopener noreferrer">here</a>. That discusses everything from assembling the hardware to configuring the software. If you want to see how the game console was developed I've recorded those on my <a href="https://www.youtube.com/playlist?list=PLecUQNqdK8lTFV4D1MFUgDr6TgxQrbloh" target="_blank" rel="noopener noreferrer">YouTube channel</a>. To give a brief overview, the game console can be divided into two main categories - the 3d-printed case and the electronic components inside:
 <br><br>
 
 ## 3d model
