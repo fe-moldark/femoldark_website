@@ -11,18 +11,18 @@ nav_order: 7
 
 # The Game Console
 I thought it would be cool to design my own handheld console for this game, and despite some initial frustrations it has been fun to develop. Some neat aspects of this design:<br>
-- There is a pop out button panel on the left side with buttons for starting my game directly, for starting a media center to paly locally stored videos, and two others for shutting the device and to turn the wireless interface up or down
-- Not only is there a battery pack so the game console is portable, but the battery also acts as a UPS for easy transitions between powering the console over USB-C and the battery
-- Audio can be routed through two external speakers or to a 3.5mm audio jack using a manual DPDT 3-Pos switch
-- Volume control is achieved using a potentiometer and a couple of gears
+- There is a pop out button panel on the left side with buttons for starting my game directly, for starting a media center to play locally stored videos, and two others for shutting the device off and to turn the wireless interface up or down
+- Not only is there a battery pack so the game console is portable, but the battery also acts as a UPS for seamless transitions between powering the console over USB-C and the battery
+- Audio can be routed through two external speakers or to a 3.5mm audio jack using a manual 3-Pos DPDT switch
+- Volume control is achieved using a dual-gang 5k potentiometer and a couple of gears
 - The screen is 7", much larger than your typical handheld Retropie case from Adafruit allows for (no hate on them, I also have a case like this)
-- There is a removable SD card in a pop out panel on the right side which has the RetroPie OS installed (there were issues getting it installed as software)
+- There is a removable SD card in a pop out panel on the right side which has the RetroPie OS and some games installed (there were issues getting it installed as an application)
 - A fan to keep the computer cool
 - Neat assembly / disassembly that requires no unsoldering to get to the guts of the game console
 - You can swap out an analog joystick with a d-pad in under a minute if you want
 
 <br>
-I cover the game console's development more in depth on my personal website <a href="https://wesleykent.com/femoldark/gameconsole/" target="_blank" rel="noopener noreferrer">here</a>. That covers everything from the hardware assembly to configuring the software. If you want to see how the game console was developed I've recorded those on my YouTube channel here. To give a brief overview, the game console can be divided into two main categories - the 3d-printed case and the electronic components inside:
+I cover the game console's development more in depth on my personal website <a href="https://wesleykent.com/femoldark/gameconsole/" target="_blank" rel="noopener noreferrer">here</a>. That covers everything from assembling the hardware to configuring the software. If you want to see how the game console was developed I've recorded those on my <a href="https://www.youtube.com/playlist?list=PLecUQNqdK8lTFV4D1MFUgDr6TgxQrbloh" target="_blank" rel="noopener noreferrer">YouTube channel</a>. To give a brief overview, the game console can be divided into two main categories - the 3d-printed case and the electronic components inside:
 <br><br>
 
 ## 3d model
@@ -30,7 +30,7 @@ If you want to view these all in a single webpage I have put them on display <a 
 <br><br>
 
 ## Circuit Diagram
-This is what the final wiring for the game console looks like:<br>
+This is what the final circuit diagram for the game console looks like:<br>
 <center>
   <img src="/assets/updated_circuitv2.png" alt="" width=1050><br>
 </center>
