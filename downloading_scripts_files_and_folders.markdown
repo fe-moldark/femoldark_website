@@ -27,7 +27,7 @@ This is designed to work on Windows 10/11, but if you want to modify it to work 
 
 ## _Working versions of these modules:_
 Since I don't know if any future updates will mess things up, here are the current versions of all the modules I am using without issue:
-- Pygame: 1.9.6
+- Pygame: 2.4.0 (Windows) or 1.9.6 (Linux)
 - Xlrd: 2.0.1
 - Numpy: 1.24.2
 - Matplotlib: this will install a host of other libraries...
