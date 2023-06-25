@@ -22,19 +22,22 @@ This is designed to work on Windows 10/11, but if you want to modify it to work 
 ## _What else is needed:_
 - Python3 from <a href="https://python.org/downloads/" target="_blank" rel="noopener noreferrer">here</a>. From that link find the latest stable release and choose the install for Windows option
 - Pip should install alongside that, but if not you can download it separately. To confirm if it was downloaded enter `pip --version` at the command prompt
-- Install the following modules with the `pip install <module name>` command: `pygame`, `xlrd`, `numpy`, and `matplotlib`
+- Install the following modules with the `pip install <module name>` command: `xlrd`, `numpy`, and `matplotlib`
 
 
 ## _Working versions of these modules:_
 Since I don't know if any future updates will mess things up, here are the current versions of all the modules I am using without issue:
-- Pygame: 2.3.0
+- Pygame: 1.9.6
 - Xlrd: 2.0.1
 - Numpy: 1.24.2
 - Matplotlib: this will install a host of other libraries...
-- Python3 - 3.10.11
+- Python3 - 3.10.11 or 3.9.x
 - Pip - 23.0.1
 <br>
 
+
+Do NOT install pygame over pip if on Linux, instead use `sudo apt-get install python3-pygame` and ensure that the correct version is installed (see above). 
+<br><br>
 **Note: You can check what module versions you have installed using `pip freeze` at the command prompt.**
 <br><br>
 
