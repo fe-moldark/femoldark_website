@@ -2,7 +2,7 @@
 layout: default
 title: Game Console
 permalink: /game_console/
-nav_order: 7
+nav_order: 9
 --- 
 
 <head>
