@@ -33,6 +33,7 @@ I decided to add an absolutely useless weapon to the game just for fun, and then
 | Nobleman                                         | Max out a weapon in all categories at the forge.                                       | Well this seems like a waste.                |
 | Kessel Run                                       | Complete a chapter by the end of your 2nd turn.                                        |                                              |
 | Someone learned about the High Ground            | One-hit a boss by some miracle.                                                        | How did you even manage this?                |
+| Valuing money over lives...                      | Enter the arena.                                                                       |                                              |
 
 <br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
