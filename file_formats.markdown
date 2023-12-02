@@ -7,7 +7,7 @@ nav_order: 4
 
 # File formats
 {: .no_toc }
-This page will cover different types of files and how they are formatted. Note that the [Create Chapter](/creating_chapters/) program I wrote already manipulates the files in the same format you'll see here, so you should only ever need to reference the actual files when debugging or just to better understand how everything is written. Also note that some of these formats will change and one or two I have already rewritten but have yet to be implemented in either the game or the Create Chapter program. Let's begin:
+**Quick edit: Nearly every file is changing to CSVs. Storing data in basic txt files was simple enough (and worked well) years ago but has scaled horribly. I'll update this in time.**<br>This page will cover different types of files and how they are formatted. Note that the [Create Chapter](/creating_chapters/) program I wrote already manipulates the files in the same format you'll see here, so you should only ever need to reference the actual files when debugging or just to better understand how everything is written. Also note that some of these formats will change and one or two I have already rewritten but have yet to be implemented in either the game or the Create Chapter program. Let's begin:
 <br><br>
 
 <details open markdown="block">
